@@ -1,2 +1,2 @@
 # odin-recipes
-testing
+Practice following Odin Project Foundation Building (HTML)
